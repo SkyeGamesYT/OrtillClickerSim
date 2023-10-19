@@ -293,7 +293,7 @@ Upgrades
 	*buildingUpgrade6
 		name:candy TVs
 		desc:Televisions that broadcast candy cartoons, candy sitcoms, and candy news bulletins.<//><b>Effect:</b><.>rabbit village production x2<.>rabbit city production x2
-		iconhttps://github.com/SkyeGamesYT/OrtillClickerSim/blob/main/Images/placeholder.png?raw=true
+		icon:https://github.com/SkyeGamesYT/OrtillClickerSim/blob/main/Images/placeholder.png?raw=true
 		cost:1000000 candy
 		passive:multiply yield of village by 2
 		passive:multiply yield of city by 2
