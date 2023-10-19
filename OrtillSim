@@ -2,8 +2,8 @@ Let's make a game!
 	name:Candy Clicker
 	by:_SkyeLOL_
 	desc:This is a simple idle game to showcase some of the basic functionalities of Idle Game Maker.<//>Make candy and shoot for the stars!
-	created:25/7/2017
-	updated:24/10/2017
+	created:10/18/2023
+	updated:10/19/2023
 	version:1.3
 
 Settings
@@ -58,7 +58,7 @@ Shinies
 			if (chance(25%))
 				//get at least 7, or between 1 and 3 minutes of our candy production
 				$amount=max(7,random(candy:ps*60*1,candies:ps*60*3))*$boost
-				toast The lucky bunny grants you<//><b>[$amount] Candies</b>.
+				toast The lucky bunny grants you<//><b>[$amount] candies</b>.
 				yield $amount candies
 			else
 				$amount=1*$boost
