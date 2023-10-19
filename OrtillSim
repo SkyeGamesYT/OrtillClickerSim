@@ -158,7 +158,7 @@ Upgrades
 		desc:A nice little supplement to your candy' diet.<//><b>Effect:</b><.>+1 bunny/click
 		icon:https://github.com/SkyeGamesYT/OrtillClickerSim/blob/main/Images/placeholder.png?raw=true
 		cost:100 candy
-		passive:increase bunny yield of bunnyButton by 1
+		passive:increase bunny yield of candyButton by 1
 		req:10 candy:earned
 		
 	*spinach
@@ -166,7 +166,7 @@ Upgrades
 		desc:Big tasty leaves, perfect for hungry candy.<//><b>Effect:</b><.>+1 bunny/click
 		icon:https://github.com/SkyeGamesYT/OrtillClickerSim/blob/main/Images/placeholder.png?raw=true
 		cost:200 candy
-		passive:increase bunny yield of bunnyButton by 1
+		passive:increase bunny yield of candyButton by 1
 		req:50 candy:earned
 		
 	*lettuce
@@ -174,7 +174,7 @@ Upgrades
 		desc:Frilly greens loved by all candy.<//><b>Effect:</b><.>+1 bunny/click
 		icon:https://github.com/SkyeGamesYT/OrtillClickerSim/blob/main/Images/placeholder.png?raw=true
 		cost:400 candy
-		passive:increase bunny yield of bunnyButton by 1
+		passive:increase bunny yield of candyButton by 1
 		req:200 candy:earned
 		
 	*broccoli
@@ -182,7 +182,7 @@ Upgrades
 		desc:Crunchy greens that look like little trees.<//><b>Effect:</b><.>candy/click x2<.>bunny production +5%
 		icon:https://github.com/SkyeGamesYT/OrtillClickerSim/blob/main/Images/placeholder.png?raw=true
 		cost:3000 candy
-		passive:multiply bunny yield of bunnyButton by 2
+		passive:multiply bunny yield of candyButton by 2
 		passive:multiply yield of candy by 1.05
 		req:1000 candy:earned
 		
@@ -191,7 +191,7 @@ Upgrades
 		desc:Nice pieces of juicy red apples.<//><b>Effect:</b><.>candy/click x1.5<.>bunny production +5%
 		icon:https://github.com/SkyeGamesYT/OrtillClickerSim/blob/main/Images/placeholder.png?raw=true
 		cost:10000 candy
-		passive:multiply bunny yield of bunnyButton by 1.5
+		passive:multiply bunny yield of candyButton by 1.5
 		passive:multiply yield of candy by 1.05
 		req:1000 candy:earned
 		
@@ -200,7 +200,7 @@ Upgrades
 		desc:Purple, crunchy, and strangely spicy.<//><b>Effect:</b><.>candy/click x1.5<.>bunny production +5%
 		icon:https://github.com/SkyeGamesYT/OrtillClickerSim/blob/main/Images/placeholder.png?raw=true
 		cost:50000 candy
-		passive:multiply bunny yield of bunnyButton by 1.5
+		passive:multiply bunny yield of candyButton by 1.5
 		passive:multiply yield of candy by 1.05
 		req:10000 candy:earned
 		
@@ -209,7 +209,7 @@ Upgrades
 		desc:Tasty, and gives your candy a lovely breath.<//><b>Effect:</b><.>candy/click x1.5<.>bunny production +5%
 		icon:https://github.com/SkyeGamesYT/OrtillClickerSim/blob/main/Images/placeholder.png?raw=true
 		cost:100000 candy
-		passive:multiply bunny yield of bunnyButton by 1.5
+		passive:multiply bunny yield of candyButton by 1.5
 		passive:multiply yield of candy by 1.05
 		req:50000 candy:earned
 		
@@ -218,7 +218,7 @@ Upgrades
 		desc:Broad leaves that make for a tasty salad.<//><b>Effect:</b><.>candy/click x1.5<.>bunny production +5%
 		icon:https://github.com/SkyeGamesYT/OrtillClickerSim/blob/main/Images/placeholder.png?raw=true
 		cost:500000 candy
-		passive:multiply bunny yield of bunnyButton by 1.5
+		passive:multiply bunny yield of candyButton by 1.5
 		passive:multiply yield of candy by 1.05
 		req:100000 candy:earned
 		
@@ -227,7 +227,7 @@ Upgrades
 		desc:Your candy look like little vampires when they start munching on these!<//><b>Effect:</b><.>candy/click x1.5<.>bunny production +5%
 		icon:https://github.com/SkyeGamesYT/OrtillClickerSim/blob/main/Images/placeholder.png?raw=true
 		cost:1000000 candy
-		passive:multiply bunny yield of bunnyButton by 1.5
+		passive:multiply bunny yield of candyButton by 1.5
 		passive:multiply yield of candy by 1.05
 		req:500000 candy:earned
 		
@@ -236,7 +236,7 @@ Upgrades
 		desc:The quintessential rabbit food! Crunchy, orange, and perfect.<//><b>Effect:</b><.>candy/click x2<.>bunny production +10%
 		icon:https://github.com/SkyeGamesYT/OrtillClickerSim/blob/main/Images/placeholder.png?raw=true
 		cost:100000000 candy
-		passive:multiply bunny yield of bunnyButton by 2
+		passive:multiply bunny yield of candyButton by 2
 		passive:multiply yield of candy by 1.1
 		req:1000000 candy:earned
 	
