@@ -329,7 +329,7 @@ Upgrades
 		name:Rabbit's haste
 		desc:I'm late! I'm late! For a very important date!<//><b>Effect:</b><.>lucky candy appear 30% more often
 		icon:https://github.com/SkyeGamesYT/OrtillClickerSim/blob/main/Images/placeholder.png?raw=true
-		passive:multiply frequency of luckycandy by 0.7
+		passive:multiply frequency of luckyCandy by 0.7
 		cost:5 goldencandy
 		req:1 goldencandy:earned
 	
