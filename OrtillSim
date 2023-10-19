@@ -17,7 +17,7 @@ Layout
 		
 Buttons
 	*candyButton
-		name:Make a piece of candy!
+		name:Candy!
 		desc:Click this little candy to get more candies!
 		on click:anim icon wobble
 		on click:yield 1 candy
