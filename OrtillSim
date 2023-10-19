@@ -153,9 +153,9 @@ Upgrades
 	//food upgrades
 	//inspiration : http://rabbit.org/suggested-vegetables-and-fruits-for-a-rabbit-diet/
 	
-	*parsley
-		name:Parsley
-		desc:A nice little supplement to your candy' diet.<//><b>Effect:</b><.>+1 candy/click
+	*twizlers
+		name:Twizlers
+		desc:A nice little supplement to your candy diet.<//><b>Effect:</b><.>+1 candy/click
 		icon:https://github.com/SkyeGamesYT/OrtillClickerSim/blob/main/Images/placeholder.png?raw=true
 		cost:100 candy
 		passive:increase candy yield of candyButton by 1
