@@ -4,10 +4,10 @@ Let's make a game!
 	desc:This is a simple idle game to showcase some of the basic functionalities of Idle Game Maker.<//>Make bunnies and shoot for the stars!
 	created:25/7/2017
 	updated:24/10/2017
-	version:1
+	version:1.1
 
 Settings
-	background:stuff/meadow.jpg
+	background:rainbow.jpeg
 	building cost increase:115%
 	building cost refund:50%
 	spritesheet:icons, 48 by 48, stuff/bunnyIcons.png
