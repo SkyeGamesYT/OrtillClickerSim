@@ -24,7 +24,7 @@ Buttons
 		on click:if (have goldenTouch and chance(1%)) yield 1 goldencandy
 		icon:https://github.com/SkyeGamesYT/OrtillClickerSim/blob/main/Images/Candy.jpeg?raw=true
 		no text
-		class:bigButton hasFlares
+		class:bigButton hasFlares noBackground
 		icon class:shadowed
 		tooltip origin:bottom
 		tooltip class:red
